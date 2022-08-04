@@ -1,3 +1,5 @@
-/.settings/
-/cmake-build-debug/
-/Debug/
+.*
+cmake-build-debug
+Debug
+Blinking Debug.launch
+CMakeLists_template.txt
